@@ -4,3 +4,4 @@ Add
 dev do half
 test push
 ADD test
+merge test
