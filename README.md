@@ -5,3 +5,4 @@ dev do half
 test push
 ADD test
 merge test
+--no-ff test
